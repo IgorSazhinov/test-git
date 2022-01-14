@@ -1,0 +1,17 @@
+.lend_block {
+display: block;
+position: relative;
+background: red;
+}
+
+.lend_img {
+    display: block;
+    background-color: seagreen;
+
+}
+
+.lend_text {
+    display: block;
+    position: relative;
+
+}
